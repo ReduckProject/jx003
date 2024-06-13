@@ -23,5 +23,14 @@ def check_image_path(image_path):
 while True:
     WindowsUtils.clickIcon('icon/map/maweiyi.png')
     WindowsUtils.clickIcon('icon/map/longmenhuangmo.png')
-    sleep(2)
+
+    # WindowsUtils.clickIcon('icon/maweiyi/changancheng2.png')
+    # WindowsUtils.clickIcon('icon/maweiyi/maweiyi_shenxing2.png')
+    # sleep(1)
+    # print("find .. maweiyi_select")
+    # WindowsUtils.clickIcon('icon/maweiyi/maweiyi_select.png')
+    # sleep(1)
+    # print("find .. maweiyi_shenxing_confirm")
+    # WindowsUtils.clickIcon('icon/maweiyi/maweiyi_shenxing_confirm.png')
+    # sleep(1)
 
